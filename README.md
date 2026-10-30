@@ -11,6 +11,5 @@ Each case study follows standard Security Operations Center (SOC) Tier 1 / Level
 ```text
 ├── README.md                                          # Portfolio dashboard & incident index
 └── investigations/                                    # Detailed SOC incident reports
-    ├── SOC-EventID-93-Exchange-Phishing-Excel-Macro.md # Spearphishing macro analysis (In Progress)
     ├── SOC-EventID-86-Proxy-Phishing-URL.md            # Outbound credential phishing investigation
-    └── SOC-EventID-36-Endpoint-Malware-Detected.md     # Host malware triage & hash verification
+    ├── SOC-EventID-82-Phishing-Mail-Detected-Suspicious-Task-Scheduler.md  # An inbound spearphishing email
