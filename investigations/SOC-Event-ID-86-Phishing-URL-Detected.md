@@ -1,9 +1,9 @@
 # [INCIDENT REPORT] EVENT ID : 86 - Phishing URL Detected
 
 ## 1. Executive Summary
-- **Verdict:**
+- **Verdict:** True Positive (Malicious Credential Harvester)
 - **Severity:** HIGH
-- **Status:** Under Investigation
+- **Status:** Closed / Remediated
 - **Summary:** Internal Workstation `EmilyComp` (`172.16.17.49`) initiated an outbount connection on Port 80 to the external host (`91.189.114.8`) attempting to access a targeted credential  phishing page hosted on a compromised wordpress environment. The web proxy allowed the outbound request. Threat Intelligence analysis confirmed the landing URL is malicious with a 100/100 threat score. Workstation isolation was executed via EDR, malicious network artifacts were cataloged for edge blocking, and identity remediation was initiated for the targeted user.
 
 
