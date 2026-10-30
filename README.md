@@ -73,6 +73,7 @@ SOC-Analyst-Investigation-Labs/
     ├── SOC-EventID-86-Proxy-Phishing-URL.md
     ├── SOC-EventID-82-Phishing-Mail-Detected-Suspicious-Task-Scheduler.md
     └── SOC-EventID-52-Phishing-Mail-Detected-Internal-to-Internal.md
+    └── SOC-EventID-45-Malicious-Attachment-Detected-Phishing-Alert.md
 ```
 
 ## Disclaimer
