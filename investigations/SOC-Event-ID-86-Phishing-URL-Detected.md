@@ -1,4 +1,4 @@
-# [INCIDENT REPORT] EVENT ID : 86 - Phishing URL Detected
+# EVENT ID : 86 - Phishing URL Detected
 
 ## 1. Executive Summary
 - **Verdict:** True Positive (Malicious Credential Harvester)
