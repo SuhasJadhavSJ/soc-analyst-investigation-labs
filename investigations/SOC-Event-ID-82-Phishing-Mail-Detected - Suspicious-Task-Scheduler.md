@@ -9,16 +9,14 @@
 ---
 
 ## 2. Alert Metadata
-----------------------------------------------------------------------------------
-| Parameter                  | Value                                              |
-----------------------------------------------------------------------------------
-| **Event ID**               | 82                                                 |
-| **Alert Trigger Time**     | 2021-03-21T12:26:57+03:00                          |
-| **Rule Name**              | Phishing Mail Detected - Suspicious Task Scheduler |
+| Parameter | Value |
+| :--- | :--- |
+| **Event ID** | 82 |
+| **Alert Trigger Time** | 2021-03-21T12:26:57+03:00 |
+| **Rule Name** | Phishing Mail Detected - Suspicious Task Scheduler |
 | **Source Address / Relay** | aaronluo@cmail.carleton.ca (SMTP: 189.162.189.159) |
-| **Destination Address**    | mark@letsdefend.io                                 |
-| **Device Action**          | Blocked                                            |
------------------------------------------------------------------------------------
+| **Destination Address** | mark@letsdefend.io |
+| **Device Action** | Blocked |
 
 ---
 
