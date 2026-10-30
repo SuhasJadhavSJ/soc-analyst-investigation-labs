@@ -32,6 +32,7 @@ The following case studies contain detailed investigation reports, including ale
 | 86 | Outbound Credential Phishing Investigation | Proxy / Web Security | [View Investigation](./investigations/SOC-EventID-86-Proxy-Phishing-URL.md) |
 | 82 | Inbound Phishing Email with Suspicious Task Scheduler Activity | Email Security / Endpoint | [View Investigation](./investigations/SOC-EventID-82-Phishing-Mail-Detected-Suspicious-Task-Scheduler.md) |
 | 52 | Internal-to-Internal Phishing Investigation | Email Security | [View Investigation](./investigations/SOC-EventID-52-Phishing-Mail-Detected-Internal-to-Internal.md) |
+| 45 | Malicious Attachment Detected - Phishing Email | Email Security | [View Investigation](./investigations/SOC-Event-ID-45-Malicious-Attachment-Detected-Phishing-Alert.md) 
 
 ## SOC Investigation Methodology
 
