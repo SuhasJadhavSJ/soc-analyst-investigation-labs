@@ -34,6 +34,7 @@ The following case studies contain detailed investigation reports, including ale
 | 52 | Internal-to-Internal Phishing Investigation | Email Security | [View Investigation](./investigations/SOC-EventID-52-Phishing-Mail-Detected-Internal-to-Internal.md) |
 | 45 | Malicious Attachment Detected - Phishing Email | Email Security | [View Investigation](./investigations/SOC-Event-ID-45-Malicious-Attachment-Detected-Phishing-Alert.md) |
 | 93 | Phishing Mail Detected – Excel 4.0 Macros | Email Security | [View Investigation](./investigations/SOC-Event-ID-93%20-SOC146-Phishing-Mail-Detected-Excel-4.0-Macros.md) |
+| 115 | Possible SQL Injection Payload Detected | Web Security | [View Investigation](./investigations/SOC-Event-ID-115-Possible-SQL-Injection-Payload-Detected.md) |
 
 ## SOC Investigation Methodology
 
@@ -75,7 +76,8 @@ SOC-Analyst-Investigation-Labs/
     ├── SOC-EventID-82-Phishing-Mail-Detected-Suspicious-Task-Scheduler.md
     └── SOC-EventID-52-Phishing-Mail-Detected-Internal-to-Internal.md
     └── SOC-EventID-45-Malicious-Attachment-Detected-Phishing-Alert.md
-    └── SOC-Event-ID-93-SOC146-Phishing-Mail-Detected-Excel-4.0-Macros
+    └── SOC-Event-ID-93-SOC146-Phishing-Mail-Detected-Excel-4.0-Macros.md
+    └── SOC-Event-ID-115-Possible-SQL-Injection-Payload-Detection.md
 ```
 
 ## Disclaimer
