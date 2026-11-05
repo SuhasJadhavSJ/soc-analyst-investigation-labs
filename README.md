@@ -35,6 +35,8 @@ The following case studies contain detailed investigation reports, including ale
 | 45 | Malicious Attachment Detected - Phishing Email | Email Security | [View Investigation](./investigations/SOC-Event-ID-45-Malicious-Attachment-Detected-Phishing-Alert.md) |
 | 93 | Phishing Mail Detected – Excel 4.0 Macros | Email Security | [View Investigation](./investigations/SOC-Event-ID-93%20-SOC146-Phishing-Mail-Detected-Excel-4.0-Macros.md) |
 | 115 | Possible SQL Injection Payload Detected | Web Security | [View Investigation](./investigations/SOC-Event-ID-115-Possible-SQL-Injection-Payload-Detected.md) |
+| 116 | Javascript Code Detected in Requested URL | [View Investigation](./investigations/SOC-Event-ID-116-Javascript-Code-Detected-in-Requested-URL.md) |
+| 36 | Malware Detected | [View Investigation](./investigations/SOC-Event-ID-36-Malware-Detected.md) |
 
 ## SOC Investigation Methodology
 
@@ -78,6 +80,8 @@ SOC-Analyst-Investigation-Labs/
     └── SOC-EventID-45-Malicious-Attachment-Detected-Phishing-Alert.md
     └── SOC-Event-ID-93-SOC146-Phishing-Mail-Detected-Excel-4.0-Macros.md
     └── SOC-Event-ID-115-Possible-SQL-Injection-Payload-Detection.md
+    └── SOC-Event-ID-116-Javascript-Code-Detected-in-Requested-URL.md
+    └── SOC-Event-ID-36-Malware-Detected.md
 ```
 
 ## Disclaimer
