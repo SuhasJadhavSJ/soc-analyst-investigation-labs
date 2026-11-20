@@ -82,8 +82,10 @@ SOC-Analyst-Investigation-Labs/
     └── SOC-Event-ID-115-Possible-SQL-Injection-Payload-Detection.md
     └── SOC-Event-ID-116-Javascript-Code-Detected-in-Requested-URL.md
     └── SOC-Event-ID-36-Malware-Detected.md
+    └── SOC-Event-ID-117-Ls-Command-Detected-In-Requested-URL.md
     └── SOC-Event-ID-118-Whoami-Command-Detected-In-Request-Body.md
     └── SOC-Event-ID-119-Possible-IDOR-Attack-Detected.md
+    └── SOC-Event-ID-120-Passwd-Found-In-Requested-URL-Possible-LFI-Attack.md
 ```
 
 ## Disclaimer
