@@ -37,6 +37,10 @@ The following case studies contain detailed investigation reports, including ale
 | 115 | Possible SQL Injection Payload Detected | Web Security | [View Investigation](./investigations/SOC-Event-ID-115-Possible-SQL-Injection-Payload-Detected.md) |
 | 116 | Javascript Code Detected in Requested URL | [View Investigation](./investigations/SOC-Event-ID-116-Javascript-Code-Detected-in-Requested-URL.md) |
 | 36 | Malware Detected | [View Investigation](./investigations/SOC-Event-ID-36-Malware-Detected.md) |
+| 117 | Command Injecetion Detected | [View Investigation](./investigations/SOC-Event-ID-117-Ls-Command-Detected-In-Requested-URL.md) |
+| 118 | Command Injection Detected | [View Investigation](./investigations/SOC-Event-ID-118-Whoami-Command-Detected-In-Request-Body.md) |
+| 119 | IDOR Attack |[View Investigation](./investigations/SOC-Event-ID-119-Possible-IDOR-Attack-Detected.md) |
+| 120 | LFI Attack [View Investigation](./investigations/SOC-Event-ID-120-Passwd-Found-In-Requested-URL-Possible-LFI-Attack.md) |
 
 ## SOC Investigation Methodology
 
